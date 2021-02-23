@@ -19,5 +19,5 @@
 Created a client for a game with following [rules](http://wgforge-srv.wargaming.net/doc/). 
 #### Implemented:
 1. graphics for a game client 
-2. game logic (a bote) for competeting with another players for game resources
+2. game logic (a bote) for competeting with another players for game resources (map with players based on graph).
 3. client-server communication
